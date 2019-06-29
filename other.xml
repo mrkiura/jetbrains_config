@@ -1,0 +1,72 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.13.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.7.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.1.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.12.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.3/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.4/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.10.2/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.5/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.9.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.6/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bank_otuch-LfxHtVEi/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/iz2/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie_tracker-yZkKevmJ/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/proto_zebra/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/async-web-engine/.virtualenv/bin/python" value="true" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/policysales/.virtualenv/bin/python" value="true" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/zonkey/.virtualenv/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bank_otuch-LfxHtVEi/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/iz2/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie_tracker-yZkKevmJ/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/proto_zebra/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/async-web-engine/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/policysales/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/zfront/.virtualenv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/bank_otuch-LfxHtVEi/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/iz2/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/movie_tracker-yZkKevmJ/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/proto_zebra/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/ad-turbine/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/async-web-engine/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/drift/.virtualenv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/iz2/.virtualenv/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/dev/thezebra/projects/policysales/.virtualenv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
