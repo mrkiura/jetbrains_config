@@ -1,11 +1,11 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
-    <option name="SECONDARY_FONT_FAMILY" value="Roboto Mono for Powerline" />
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Droid Sans Mono for Powerline" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro for Powerline" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
 </application>
