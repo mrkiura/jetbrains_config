@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
