@@ -8,7 +8,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="20">
+        <list size="37">
           <item index="0" class="java.lang.String" itemvalue="pytest" />
           <item index="1" class="java.lang.String" itemvalue="coverage" />
           <item index="2" class="java.lang.String" itemvalue="botocore" />
@@ -29,6 +29,23 @@
           <item index="17" class="java.lang.String" itemvalue="faker" />
           <item index="18" class="java.lang.String" itemvalue="cffi" />
           <item index="19" class="java.lang.String" itemvalue="attrs" />
+          <item index="20" class="java.lang.String" itemvalue="traitlets" />
+          <item index="21" class="java.lang.String" itemvalue="terminado" />
+          <item index="22" class="java.lang.String" itemvalue="nbformat" />
+          <item index="23" class="java.lang.String" itemvalue="psycopg2" />
+          <item index="24" class="java.lang.String" itemvalue="django-storages" />
+          <item index="25" class="java.lang.String" itemvalue="nbconvert" />
+          <item index="26" class="java.lang.String" itemvalue="pyrsistent" />
+          <item index="27" class="java.lang.String" itemvalue="sqlparse" />
+          <item index="28" class="java.lang.String" itemvalue="bleach" />
+          <item index="29" class="java.lang.String" itemvalue="jupyter-console" />
+          <item index="30" class="java.lang.String" itemvalue="pillow" />
+          <item index="31" class="java.lang.String" itemvalue="djoser" />
+          <item index="32" class="java.lang.String" itemvalue="docutils" />
+          <item index="33" class="java.lang.String" itemvalue="prompt-toolkit" />
+          <item index="34" class="java.lang.String" itemvalue="djangorestframework" />
+          <item index="35" class="java.lang.String" itemvalue="notebook" />
+          <item index="36" class="java.lang.String" itemvalue="pygments" />
         </list>
       </value>
     </option>
