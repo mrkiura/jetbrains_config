@@ -5,6 +5,7 @@
       <mapping pattern=".env-local-no-export" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="factories.py" type="PLAIN_TEXT" />
       <mapping pattern="test_coverhunt" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
