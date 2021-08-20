@@ -2,6 +2,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="EditorSelectWord" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -13,4 +17,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="ShowBookmarks" />
 </keymap>
