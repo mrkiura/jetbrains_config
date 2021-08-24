@@ -1,4 +1,10 @@
 <keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CollapseAll" />
   <action id="CollapseAllRegions">
@@ -15,6 +21,8 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsMode" />
+  <action id="EditorPreviousWordInDifferentHumpsMode" />
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -27,6 +35,12 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="PasteMultiple">
