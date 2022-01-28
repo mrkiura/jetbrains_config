@@ -1,12 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Run dev mfa" description="Run dev mfa" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/dev/mantium/overlord/scripts/run_dev_mfa.bash" />
-      <option name="PARAMETERS" value="$Prompt$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/mantium/overlord/scripts" />
-    </exec>
-  </tool>
-  <tool name="Blue" description="Blue in Pycharm config" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Blue" description="somewhat less uncompromising code formatter than black" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/dev/mantium/overlord/.venv/bin/blue" />
       <option name="PARAMETERS" value="$FilePath$" />
