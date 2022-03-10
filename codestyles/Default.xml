@@ -3,7 +3,7 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="121" />
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
 </code_scheme>
