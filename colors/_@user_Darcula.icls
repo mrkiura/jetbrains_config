@@ -3,7 +3,7 @@
     <property name="created">2017-12-28T08:58:13</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2020-05-12T20:56:08</property>
+    <property name="modified">2022-03-15T19:24:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -26,5 +26,16 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="GUTTER_BACKGROUND" value="0" />
+    <option name="TEARLINE_COLOR" value="505050" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
